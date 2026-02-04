@@ -85,7 +85,9 @@ streamlit run app.py
    - And more!
 
 ## Screenshots
-![Screenshot 1](imgs\pic1.png)
+## Screenshots
+
+![Screenshot 1](imgs/pic1.png)
 <!-- Add screenshots here later -->
 
 ## Contributing
