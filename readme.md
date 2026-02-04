@@ -88,6 +88,9 @@ streamlit run app.py
 ## Screenshots
 
 ![Screenshot 1](imgs/pic1.png)
+![Screenshot 2](imgs/pic2.png)
+![Screenshot 3](imgs/pic3.png)
+
 <!-- Add screenshots here later -->
 
 ## Contributing
