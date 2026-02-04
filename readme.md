@@ -44,15 +44,13 @@ pip install -r requirements.txt
 ```
 
 4. **Set up environment variables:**
-   - Copy `.env.example` to `.env`
+   -make .env file
    - Fill in your API keys:
      - Get Groq API key from: https://console.groq.com
      - Get LangChain API key from: https://smith.langchain.com
      - Get Tavily API key from: https://tavily.com
 ```bash
-cp .env.example .env
-# Then edit .env with your actual keys
-```
+
 
 5. **Run the app:**
 ```bash
@@ -64,7 +62,7 @@ streamlit run app.py
 .
 ├── app.py              # Main Streamlit application
 ├── agent_graph.py      # LangGraph agent logic
-├── .env.example        # Environment variables template
+├── .env       # Environment variables template
 ├── requirements.txt    # Python dependencies
 ├── .gitignore         # Git ignore rules
 └── README.md          # This file
@@ -87,7 +85,7 @@ streamlit run app.py
    - And more!
 
 ## Screenshots
-
+![Screenshot 1](imgs\pic 1.png)
 <!-- Add screenshots here later -->
 
 ## Contributing
