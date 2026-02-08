@@ -93,15 +93,3 @@ streamlit run app.py
 
 <!-- Add screenshots here later -->
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License
-
-## Acknowledgments
-
-- Blog posts by [Lilian Weng](https://lilianweng.github.io/)
-- Powered by [LangChain](https://langchain.com/) and [Groq](https://groq.com/)
