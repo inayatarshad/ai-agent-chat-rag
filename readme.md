@@ -19,43 +19,7 @@ An intelligent chatbot powered by LangGraph and RAG (Retrieval-Augmented Generat
 - **Embeddings:** HuggingFace (all-MiniLM-L6-v2)
 - **Vector Store:** ChromaDB
 
-## Installation
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-```
-
-2. **Create a virtual environment:**
-```bash
-python -m venv .venv
-
-# Activate it:
-# Windows:
-.venv\Scripts\activate
-# Mac/Linux:
-source .venv/bin/activate
-```
-
-3. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Set up environment variables:**
-   -make .env file
-   - Fill in your API keys:
-     - Get Groq API key from: https://console.groq.com
-     - Get LangChain API key from: https://smith.langchain.com
-     - Get Tavily API key from: https://tavily.com
-```bash
-
-
-5. **Run the app:**
-```bash
-streamlit run app.py
-```
 
 ## Project Structure
 ```
