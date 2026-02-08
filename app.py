@@ -56,7 +56,7 @@ st.markdown("""
         text-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
     }
     
-    /* Button styling - Neon green */
+    /* Button styling color theme - Neon green */
     .stButton>button {
         background: linear-gradient(90deg, #10b981 0%, #059669 100%);
         color: #ffffff;
