@@ -1,6 +1,6 @@
 langgraph
-langchain 
-langchain_community 
+langchain
+langchain_community
 langchainhub
 ipykernel
 langchain_groq
@@ -9,3 +9,4 @@ bs4
 tiktoken
 chromadb
 langchain_google_genai
+streamlit
